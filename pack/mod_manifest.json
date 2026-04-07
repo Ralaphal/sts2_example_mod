@@ -1,6 +1,11 @@
 ﻿{
+				"id": "Alpecor_Test",
 				"pck_name": "Alpecor_Test",
 				"name": "Alpecor Test",
+  				"description": "My first test mod",
 				"author": "Raliphoul",
-				"version": "0.0.1"
+				"version": "0.0.1",
+				"has_pck": true,
+				"has_dll": true,
+  				"affects_gameplay": false
 				}
